@@ -11,7 +11,7 @@ s.linkTrackVars="eVar1,eVar4,eVar5,products,campaign"
 s.linkTrackEvents="event1,purchase"
 s.trackExternalLinks=true
 s.linkInternalFilters="dell.com;javascript"
-s.visitorID="ABC123"
+
 
 
 
